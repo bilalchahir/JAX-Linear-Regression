@@ -30,7 +30,8 @@ Usage:
 ## Run the Script:
 
 Execute the provided Python script to generate synthetic data, train the linear regression model, and visualize the results.
-##Interpret the Results:
+
+## Interpret the Results:
 
 Review the printed optimized slope, intercept, and final loss.
 Analyze the loss plot to understand the model's convergence behavior.
