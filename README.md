@@ -1,8 +1,9 @@
 # JAX-Linear-Regression
 This project leverages the power of JAX, a high-performance numerical computing library, to implement a simple linear regression model using gradient descent. The objective is to generate synthetic data, perform linear regression, and visualize the optimization process through loss plotting.
 
-#Key Features:
-##Data Generation:
+# Key Features:
+
+## Data Generation:
 
 Generates synthetic data that simulates a linear relationship with added noise.
 Provides a realistic dataset for testing the linear regression model.
@@ -18,15 +19,15 @@ Loss Calculation and Visualization:
 
 Calculates the loss at each epoch during the training process.
 Plots the loss over epochs to visualize the optimization progress.
-##Performance Metrics:
+## Performance Metrics:
 
 Provides the final optimized slope and intercept values.
 Outputs the final mean squared error (MSE) to assess model accuracy.
-##Technologies Used:
+## Technologies Used:
 JAX: For high-performance numerical computing and automatic differentiation.
 Matplotlib: For visualizing the loss over epochs.
 Usage:
-##Run the Script:
+## Run the Script:
 
 Execute the provided Python script to generate synthetic data, train the linear regression model, and visualize the results.
 ##Interpret the Results:
